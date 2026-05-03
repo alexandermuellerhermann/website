@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(npx next *)",
+      "Bash(npm list *)",
+      "Bash(curl -sI http://localhost:3017/)",
+      "Bash(curl -sI http://localhost:3017/en)",
+      "Bash(curl -sI http://localhost:3017/de)",
+      "Bash(curl -sI http://localhost:3017/el)",
+      "Bash(curl -s http://localhost:3017/en)",
+      "Bash(curl -s http://localhost:3017/de)",
+      "Bash(curl -s http://localhost:3017/el)",
+      "Bash(curl -sI http://localhost:3017/sitemap.xml)",
+      "Bash(curl -s http://localhost:3017/sitemap.xml)",
+      "Bash(kill %1)",
+      "Bash(pkill -f \"next start -p 3017\")"
+    ]
+  }
+}

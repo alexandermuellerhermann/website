@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "title": "Alexander Müller-Hermann — Lizenzierter Reiseleiter in Athen & Griechenland",
+    "description": "Private Touren und Kleingruppenführungen durch die Akropolis, das Akropolismuseum, Athen und ganz Griechenland. Auf Deutsch, Englisch oder Griechisch — von einem lizenzierten Guide mit M.A. in Klassischer Archäologie der LMU München."
+  },
+  "nav": {
+    "about": "Über mich",
+    "tours": "Touren",
+    "languages": "Sprachen",
+    "contact": "Kontakt",
+    "skipToContent": "Zum Inhalt springen",
+    "menuOpen": "Menü öffnen",
+    "menuClose": "Menü schließen"
+  },
+  "hero": {
+    "eyebrow": "Lizenzierter Reiseleiter",
+    "location": "Athen · Griechenland",
+    "name": "Alexander Müller‑Hermann",
+    "tagline": "Athen und Griechenland mit Erfahrung erleben — ein Archäologe, der Geschichte lebendig macht, auf Deutsch, Englisch oder Griechisch.",
+    "ctaPrimary": "Tour planen",
+    "ctaSecondary": "Jetzt anrufen",
+    "credentials": {
+      "license": "Lizenziert vom griechischen Tourismusministerium",
+      "education": "M.A. Klassische Archäologie · LMU München",
+      "languages": "DE · EN · EL"
+    }
+  },
+  "about": {
+    "eyebrow": "Über mich",
+    "heading": "Archäologischer Blick, in zwei Kulturen zu Hause",
+    "paragraphs": [
+      "Geboren in München, aufgewachsen zwischen München und Athen, habe ich von klein auf die antiken Schriftsteller in ihrer jeweiligen Sprache gelesen. Nach dem Abitur an der Deutschen Schule Athen kehrte ich nach München zurück, um an der Ludwig-Maximilians-Universität Klassische Archäologie zu studieren, das ich mit dem Master of Arts abschloss.",
+      "Heute bin ich vom griechischen Tourismusministerium lizenzierter Reiseleiter und führe Besucher durch die Akropolis, ihr Museum und Stätten im ganzen Land. Jede Führung beruht auf Primärquellen und einer tiefen, persönlichen Liebe zu den Orten, die ich zeige."
+    ],
+    "credentials": {
+      "education": "M.A. Archäologie · LMU",
+      "license": "Lizenzierter Guide",
+      "languages": "DE / EN / EL"
+    }
+  },
+  "tours": {
+    "eyebrow": "Touren",
+    "heading": "Meine wichtigsten Routen",
+    "subheading": "Sechs Touren, die ich am häufigsten leite. Jede lässt sich anpassen — Dauer, Tempo und Tiefe — an Ihre Gruppe.",
+    "duration": "Dauer",
+    "inquire": "Anfragen",
+    "inquireSubject": "Tour-Anfrage — {tour}",
+    "items": {
+      "acropolis": {
+        "title": "Akropolis & Parthenon",
+        "duration": "2 Stunden",
+        "description": "Griechenlands ikonischstes Monument — der heilige Akropolisfelsen, gekrönt von Parthenon, Erechtheion, Propyläen und dem Tempel der Athena Nike, so wie er sich im 5. Jh. v. Chr. erhob."
+      },
+      "museum": {
+        "title": "Das Akropolismuseum",
+        "duration": "2 Stunden",
+        "description": "Von den archaischen Koren bis zu den erhaltenen Parthenon-Marmoren — erzählt anhand der neuesten Forschung und der hervorragenden Inszenierung des Hauses."
+      },
+      "agora": {
+        "title": "Antike Agora & Plaka",
+        "duration": "3 Stunden",
+        "description": "Das bürgerliche Herz des klassischen Athen — Stoa des Attalos, Hephaisteion, das Odeon des Agrippa — gefolgt von einem Spaziergang durch Plaka."
+      },
+      "delphi": {
+        "title": "Tagestour nach Delphi",
+        "duration": "Ganztägig",
+        "description": "Der Nabel der antiken Welt. Apollon-Heiligtum, Tholos in Marmaria und ein Museumsbesuch mit dem berühmten Wagenlenker."
+      },
+      "sounion": {
+        "title": "Kap Sounion & Poseidon",
+        "duration": "Halbtägig",
+        "description": "Eine Fahrt entlang der Athener Riviera zum Poseidon-Tempel auf dem Vorgebirge — abgestimmt auf den Sonnenuntergang über der Ägäis."
+      },
+      "custom": {
+        "title": "Maßgeschneiderte Griechenland-Reisen",
+        "duration": "Mehrtägig",
+        "description": "Mykene & Epidauros, Olympia, Meteora, die Kykladen — mehrtägige Routen, ganz nach Ihren Interessen, der Saison und Ihrem Tempo."
+      }
+    }
+  },
+  "languages": {
+    "eyebrow": "Sprachen",
+    "heading": "Drei Sprachen, muttersprachlich",
+    "subheading": "Touren können in einer Sprache beginnen und in einer anderen weitergehen — ideal für gemischte Familiengruppen.",
+    "items": {
+      "de": {
+        "name": "Deutsch",
+        "level": "Muttersprache",
+        "note": "Geboren und aufgewachsen in München; Familiensprache zu Hause."
+      },
+      "en": {
+        "name": "English",
+        "level": "Verhandlungssicher",
+        "note": "Arbeitssprache für Forschung und für die meisten internationalen Gäste."
+      },
+      "el": {
+        "name": "Ελληνικά",
+        "level": "Muttersprachlich",
+        "note": "Habe die Hälfte meines Lebens in Griechenland verbracht — Schulausbildung an der Deutschen Schule Athen."
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "Kontakt",
+    "heading": "Ihren Besuch planen",
+    "subheading": "Schreiben Sie mir Ihre Reisedaten, die Gruppengröße und was Sie sehen möchten. Ich antworte meist innerhalb eines Tages.",
+    "phoneLabel": "Telefon",
+    "emailLabel": "E-Mail",
+    "locationLabel": "Standort",
+    "location": "Athen, Griechenland",
+    "ctaEmail": "E-Mail schreiben",
+    "ctaCall": "Anrufen",
+    "ctaVcard": "Kontakt speichern (.vcf)",
+    "emailSubject": "Tour-Anfrage",
+    "emailBody": "Hallo Alexander,\n\nich möchte eine Tour anfragen. Meine Reisedaten:\nGruppengröße:\nInteressen:\n\nVielen Dank,"
+  },
+  "footer": {
+    "tagline": "Lizenzierter Reiseleiter · Athen · Griechenland",
+    "rights": "Alle Rechte vorbehalten.",
+    "builtBy": "Website von"
+  }
+}

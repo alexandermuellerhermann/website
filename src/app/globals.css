@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --navy: #1B2A47;
+  --navy-deep: #0E1A2E;
+  --gold: #C4A263;
+  --gold-soft: #D4B87D;
+  --cream: #F5F1EA;
+  --cream-warm: #EBE4D6;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 5rem;
+  }
+
+  body {
+    background-color: var(--cream);
+    color: var(--navy);
+    font-feature-settings: "kern", "liga", "calt";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  ::selection {
+    background-color: var(--gold);
+    color: var(--navy-deep);
+  }
+
+  h1, h2, h3 {
+    font-family: var(--font-display), "Source Serif 4", Georgia, serif;
+    font-weight: 400;
+    letter-spacing: -0.02em;
+  }
+}
+
+@layer components {
+  .container-page {
+    @apply mx-auto w-full max-w-7xl px-6 md:px-10;
+  }
+
+  .eyebrow {
+    @apply font-sans text-xs uppercase tracking-eyebrow text-gold;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-full bg-navy px-7 py-3 text-sm font-medium uppercase tracking-[0.18em] text-cream transition hover:bg-navy-deep focus:outline-none focus-visible:ring-2 focus-visible:ring-gold focus-visible:ring-offset-2 focus-visible:ring-offset-cream;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center gap-2 rounded-full border border-navy/30 bg-transparent px-7 py-3 text-sm font-medium uppercase tracking-[0.18em] text-navy transition hover:border-navy hover:bg-navy hover:text-cream focus:outline-none focus-visible:ring-2 focus-visible:ring-gold focus-visible:ring-offset-2 focus-visible:ring-offset-cream;
+  }
+
+  .btn-gold {
+    @apply inline-flex items-center justify-center gap-2 rounded-full bg-gold px-7 py-3 text-sm font-medium uppercase tracking-[0.18em] text-navy-deep transition hover:bg-gold-soft focus:outline-none focus-visible:ring-2 focus-visible:ring-cream focus-visible:ring-offset-2 focus-visible:ring-offset-navy;
+  }
+
+  .credential-pill {
+    @apply inline-flex items-center gap-2 rounded-full border border-gold/40 bg-cream-warm/60 px-4 py-1.5 text-xs uppercase tracking-[0.18em] text-navy;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .mask-half-circle {
+    -webkit-mask-image: radial-gradient(circle at 0% 50%, #000 70%, transparent 70.5%);
+            mask-image: radial-gradient(circle at 0% 50%, #000 70%, transparent 70.5%);
+  }
+}

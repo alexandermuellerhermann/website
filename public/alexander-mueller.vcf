@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Müller-Hermann;Alexander;;;
+FN:Alexander Müller-Hermann
+TITLE:Licensed Tour Guide
+TEL;TYPE=CELL,VOICE:+306988289061
+EMAIL;TYPE=INTERNET,PREF:alexandermuellerhermann@gmail.com
+ADR;TYPE=WORK:;;Athens;;;;Greece
+NOTE:Licensed by the Greek Ministry of Tourism. MA Classical Archaeology, LMU Munich. Tours in DE / EN / EL.
+END:VCARD

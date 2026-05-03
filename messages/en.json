@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "title": "Alexander Müller-Hermann — Licensed Tour Guide in Athens & Greece",
+    "description": "Private and small-group tours of the Acropolis, the Acropolis Museum, Athens and all of Greece. Led in German, English and Greek by a licensed guide with an MA in Classical Archaeology from LMU Munich."
+  },
+  "nav": {
+    "about": "About",
+    "tours": "Tours",
+    "languages": "Languages",
+    "contact": "Contact",
+    "skipToContent": "Skip to content",
+    "menuOpen": "Open menu",
+    "menuClose": "Close menu"
+  },
+  "hero": {
+    "eyebrow": "Licensed Tour Guide",
+    "location": "Athens · Greece",
+    "name": "Alexander Müller‑Hermann",
+    "tagline": "Walk Athens and Greece with experience — an archaeologist bringing history to life, in German, English or Greek.",
+    "ctaPrimary": "Plan your tour",
+    "ctaSecondary": "Call now",
+    "credentials": {
+      "license": "Licensed by the Greek Ministry of Tourism",
+      "education": "MA Classical Archaeology · LMU Munich",
+      "languages": "DE · EN · EL"
+    }
+  },
+  "about": {
+    "eyebrow": "About",
+    "heading": "An archaeologist's eye, at home in two cultures",
+    "paragraphs": [
+      "Born in Munich and raised between Munich and Athens, I grew up reading the ancient writers in their own scripts. After completing my secondary education at the German School of Athens, I returned to Munich to study Classical Archaeology at Ludwig-Maximilians-Universität, where I earned my Master of Arts.",
+      "Today I am a guide licensed by the Greek Ministry of Tourism, leading visitors through the Acropolis, its museum, and sites across the country. Every walk I lead is grounded in primary sources and a deep, personal love for the places I show you."
+    ],
+    "credentials": {
+      "education": "MA Archaeology · LMU",
+      "license": "Licensed Guide",
+      "languages": "DE / EN / EL"
+    }
+  },
+  "tours": {
+    "eyebrow": "Tours",
+    "heading": "Signature itineraries",
+    "subheading": "Six routes I lead most often. Each can be tailored — duration, pace, depth — to your group.",
+    "duration": "Duration",
+    "inquire": "Inquire",
+    "inquireSubject": "Tour inquiry — {tour}",
+    "items": {
+      "acropolis": {
+        "title": "The Acropolis & Parthenon",
+        "duration": "2 hours",
+        "description": "Greece's most iconic monument — the sacred Acropolis hill, crowned by the Parthenon, Erechtheion, Propylaea, and the Temple of Athena Nike, as it rose in the 5th century BC."
+      },
+      "museum": {
+        "title": "The Acropolis Museum",
+        "duration": "2 hours",
+        "description": "From the archaic korai to the surviving Parthenon marbles, told through the latest scholarship and the museum's superb staging."
+      },
+      "agora": {
+        "title": "Ancient Agora & Plaka",
+        "duration": "3 hours",
+        "description": "The civic heart of classical Athens — Stoa of Attalos, Hephaisteion, the Odeon of Agrippa — followed by a slow walk through Plaka."
+      },
+      "delphi": {
+        "title": "Delphi day-trip",
+        "duration": "Full day",
+        "description": "The omphalos of the ancient world. Sanctuary of Apollo, the Tholos at Marmaria, and a museum visit including the Charioteer."
+      },
+      "sounion": {
+        "title": "Cape Sounion & Poseidon",
+        "duration": "Half day",
+        "description": "An afternoon drive down the Athenian Riviera to Poseidon's temple on the headland, timed for sunset over the Aegean."
+      },
+      "custom": {
+        "title": "Custom Greece itineraries",
+        "duration": "Multi-day",
+        "description": "Mycenae & Epidauros, Olympia, Meteora, the Cyclades — multi-day routes designed around your interests, season, and pace."
+      }
+    }
+  },
+  "languages": {
+    "eyebrow": "Languages",
+    "heading": "Three languages, native-fluent",
+    "subheading": "Tours can begin in one language and continue in another — useful for mixed family groups.",
+    "items": {
+      "de": {
+        "name": "Deutsch",
+        "level": "Mother tongue",
+        "note": "Born and educated in Munich; family language at home."
+      },
+      "en": {
+        "name": "English",
+        "level": "Fluent",
+        "note": "Working language for academic publication and most international guests."
+      },
+      "el": {
+        "name": "Ελληνικά",
+        "level": "Native",
+        "note": "Half my life spent in Greece — schooled in Athens at the Deutsche Schule."
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "heading": "Plan your visit",
+    "subheading": "Tell me your dates, the size of your group, and what you'd like to see. I usually reply within a day.",
+    "phoneLabel": "Phone",
+    "emailLabel": "Email",
+    "locationLabel": "Based in",
+    "location": "Athens, Greece",
+    "ctaEmail": "Send an email",
+    "ctaCall": "Call",
+    "ctaVcard": "Save contact (.vcf)",
+    "emailSubject": "Tour inquiry",
+    "emailBody": "Hello Alexander,\n\nI'd like to ask about a tour. My dates are:\nGroup size:\nInterests:\n\nThank you,"
+  },
+  "footer": {
+    "tagline": "Licensed tour guide · Athens · Greece",
+    "rights": "All rights reserved.",
+    "builtBy": "Site by"
+  }
+}
